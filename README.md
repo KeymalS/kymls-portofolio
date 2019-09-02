@@ -1,2 +1,2 @@
 # kymls-portofolio
-Portofolio permograman selama belajar terima kasih.
+Portofolio permograman saya selama belajar terima kasih.
